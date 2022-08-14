@@ -1,6 +1,6 @@
 # **Car Spotting App**
 
-### Aplikacja PWA realizowana w ramach projektu zaliczeniowego przedmiotu "Progamowanie Systemów Mobilnych" 
+### An App To Spot Cars
 <br>
 
 <p align="center">
